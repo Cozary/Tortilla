@@ -1,0 +1,29 @@
+modLoader = "javafml"
+loaderVersion = "[43,)"
+license="GPL-3.0-or-later"
+issueTrackerURL="https://github.com/Cozary/tortilla/issues"
+
+[[mods]]
+
+modId = "tortilla"
+version = "1.19.2-1.0.4"
+displayName = "Tortilla"
+credits = "Thanks for download this mod uwu"
+displayURL = "https://www.curseforge.com/minecraft/mc-mods/tortilla"
+authors = "Cozary"
+description = '''
+    Adds Tortilla, yes.
+    '''
+[[dependencies.tortilla]]
+modId = "forge"
+mandatory = true
+versionRange = "[43,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.tortilla]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.19.2,1.20)"
+ordering = "NONE"
+side = "BOTH"

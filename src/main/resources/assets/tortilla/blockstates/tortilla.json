@@ -1,0 +1,25 @@
+{
+  "variants": {
+    "bites=0": {
+      "model": "tortilla:block/tortilla"
+    },
+    "bites=1": {
+      "model": "tortilla:block/tortilla_slice1"
+    },
+    "bites=2": {
+      "model": "tortilla:block/tortilla_slice2"
+    },
+    "bites=3": {
+      "model": "tortilla:block/tortilla_slice3"
+    },
+    "bites=4": {
+      "model": "tortilla:block/tortilla_slice4"
+    },
+    "bites=5": {
+      "model": "tortilla:block/tortilla_slice5"
+    },
+    "bites=6": {
+      "model": "tortilla:block/tortilla_slice6"
+    }
+  }
+}
